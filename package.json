@@ -6,7 +6,7 @@
     "build:eleventy-prod": "npx eleventy build",
     "build:eleventy-dev": "rm -rf dist/ && npx eleventy build",
     "start": "npm-run-all build:sass --parallel watch:*",
-    "build-prod": "npm-run-all build:eleventy-prod",
+    "build-prod": "npm-run-all build:sass build:eleventy-prod",
     "build-dev": "npm-run-all build:eleventy-dev"
   },
   "dependencies": {
