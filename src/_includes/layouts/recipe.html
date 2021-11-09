@@ -1,0 +1,27 @@
+---
+layout: 'layouts/base.html'
+---
+<main class="main-content">
+    <header>
+    </header>
+    <div class="wrapper">
+        <h1 class="recipe-name">{{title}}</h1>
+        <div class="image-container">
+            <img src="{{hero.path}}" alt="">
+        </div>
+        <h2>Ingredients</h2>
+        {%if ingredients %}
+        <ul class="ingredients" data-columns="2">
+            {% for item in ingredients %}
+            <li>{{item}}</li>
+            {% endfor %}
+        </ul>
+        {% else %}
+        <p>No ingredients listed.</p>
+        {% endif %}
+        <div class="method">
+            <h2>Method</h2>
+            {{content|safe}}
+        </div>
+    </div>
+</main>
