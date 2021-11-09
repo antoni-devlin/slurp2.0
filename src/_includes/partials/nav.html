@@ -1,0 +1,9 @@
+<nav class="nav-side">
+		<a href="javascript:void(0)" onclick="toggleNav()" class="nav-toggle"></a>
+		<h3> <a href="/">Slurp</a></h3>
+		<ul>
+		{% for item in navigation.items %}
+      		<li><a href="{{item.url}}">1{{item.text}}</a></li>
+      	{% endfor %}
+		</ul>
+	</nav>

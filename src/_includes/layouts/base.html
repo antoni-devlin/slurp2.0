@@ -11,15 +11,7 @@
 </head>
 
 <body>
-	<nav class="nav-side">
-		<a href="javascript:void(0)" onclick="toggleNav()" class="nav-toggle"></a>
-		<h3> <a href="/">Slurp</a></h3>
-		<ul>
-			<li><a href="#">Link 1</a></li>
-			<li><a href="#">Link 2</a></li>
-			<li><a href="#">Link 3</a></li>
-		</ul>
-	</nav>
+	{% include "partials/nav.html" %}
 	{{content|safe}}
 </body>
 

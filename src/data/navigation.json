@@ -1,8 +1,20 @@
 {
 	"items": [
 		{
-			"text": "Test",
-			"url": "/"
+			"text": "Breakfast",
+			"url": "/tags/breakfast/"
+		},
+		{
+			"text": "Lunch",
+			"url": "/tags/lunch/"
+		},
+		{
+			"text": "Dinner",
+			"url": "/tags/dinner/"
+		},
+		{
+			"text": "Quick",
+			"url": "/tags/quick/"
 		}
 	]
 }
