@@ -1,9 +1,12 @@
 ---
 title: "Barbecue Tofu Ramen"
 date: "2021-02-09"
-tags: 
-  - "mains"
-  - "untested"
+tags: ['Mains','Untested']
+ingredients: [
+  '',
+  '',
+  '',
+]
 hero: 
  path: "/images/crispy_tofu_ramen03-e1614514371413.jpg"
 ---

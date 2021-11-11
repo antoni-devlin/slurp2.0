@@ -1,10 +1,7 @@
 ---
 title: "Korean-Style Rice Bowl"
 date: "2021-02-09"
-tags: 
-  - "mains"
- 
-  - "hello-fresh"
+tags: ['mains', 'hello fresh']
 hero: 
  path: "/images/korean-style-rice-bowl-31fb31f0.jpg"
 ---

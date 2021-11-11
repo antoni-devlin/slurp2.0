@@ -1,10 +1,7 @@
 ---
 title: "Veggie Tikka Masala"
 date: "2021-03-06"
-tags: 
-  - "mains"
- 
-  - "hello-fresh"
+tags: ['mains', 'hello fresh']
 hero: 
  path: "/images/veggie-tikka-09e6ca50.jpg"
 ---

@@ -1,10 +1,7 @@
 ---
 title: "Green Pasta"
 date: "2021-02-09"
-tags: 
-  - "lunch"
-  - "mains"
-  - "untested"
+tags: ['lunch','mains', 'untested']
 hero: 
  path: "/images/green-pasta-square.jpg"
 ---

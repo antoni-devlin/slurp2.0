@@ -1,9 +1,7 @@
 ---
 title: "Veggie Sausage Casserole"
 date: "2021-02-09"
-tags: 
-  - "mains"
-  - "untested"
+tags: ['mains']
 hero: 
  path: "/images/Sausage-and-Bean-Casserole-square-FS.jpg"
 ---

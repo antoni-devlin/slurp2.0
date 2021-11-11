@@ -1,10 +1,7 @@
 ---
 title: "Roasted Aubergine and Spinach Dahl"
 date: "2021-03-06"
-tags: 
-  - "mains"
- 
-  - "hello-fresh"
+tags: ['mains', 'hello fresh']
 hero: 
  path: "/images/download-5.jpg"
 ---

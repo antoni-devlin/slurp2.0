@@ -1,8 +1,7 @@
 ---
 title: "Yorkshire Puddings"
 date: "2021-02-08"
-tags: 
-  - "sides"
+tags: ['sides']
 hero: 
  path: "/images/yorkshire_pudding_69240_16x9.jpg"
 ---

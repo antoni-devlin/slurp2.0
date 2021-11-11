@@ -1,10 +1,7 @@
 ---
 title: "Roasted Veg and Lentil Jumble"
 date: "2021-03-06"
-tags: 
-  - "mains"
- 
-  - "hello-fresh"
+tags: ['mains', 'hello fresh']
 hero: 
  path: "/images/roasted-veggie-lentil-jumble-69bfec2c.jpg"
 ---

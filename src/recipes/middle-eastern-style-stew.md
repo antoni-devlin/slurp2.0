@@ -1,10 +1,7 @@
 ---
 title: "Middle Eastern Style Stew"
 date: "2021-02-07"
-tags: 
-  - "mains"
- 
-  - "hello-fresh"
+tags: ['mains', 'hello fresh']
 hero: 
  path: "/images/middle-eastern-beef-stew-998beba2.jpg"
 ---

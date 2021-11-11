@@ -1,10 +1,7 @@
 ---
 title: "Thai Style Rice Bowl"
 date: "2021-02-07"
-tags: 
-  - "mains"
- 
-  - "hello-fresh"
+tags: ['mains', 'hello fresh']
 hero: 
  path: "/images/thai-style-pork-rice-bowl-f48c1ef8.jpg"
 ---

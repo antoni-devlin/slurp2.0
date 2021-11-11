@@ -1,8 +1,7 @@
 ---
 title: "Veggie sausage linguine"
 date: "2021-02-07"
-tags: 
-  - "mains"
+tags: ['mains']
 hero: 
  path: "/images/download-4.jpg"
 ---

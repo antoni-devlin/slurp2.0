@@ -1,8 +1,7 @@
 ---
 title: "North Indian Spice Mix"
 date: "2021-03-01"
-tags: 
-  - "spices"
+tags: ['spices']
 hero: 
  path: "/images/Chermoula-Spice-Mix.jpg"
 ---

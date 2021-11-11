@@ -1,10 +1,7 @@
 ---
 title: "South East Asian Inspired Chickpea Curry"
 date: "2021-02-07"
-tags: 
-  - "mains"
- 
-  - "hello-fresh"
+tags: ['mains', 'hello fresh']
 hero: 
  path: "/images/indonesian-inspired-chickpea-curry-18087084.jpg"
 ---

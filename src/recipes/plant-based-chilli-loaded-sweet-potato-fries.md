@@ -1,10 +1,7 @@
 ---
 title: "Plant-Based Chilli Loaded Sweet Potato Fries"
 date: "2021-02-09"
-tags: 
-  - "mains"
- 
-  - "hello-fresh"
+tags: ['mains', 'hello fresh']
 hero: 
  path: "/images/plant-based-chilli-loaded-sweet-potato-fries-0eb5b5d6.jpg"
 ---

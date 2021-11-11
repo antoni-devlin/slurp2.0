@@ -1,8 +1,7 @@
 ---
 title: "Cheesy Chipotle Bean Quesadillas"
 date: "2020-10-14"
-tags: 
-  - "mains"
+tags: ['mains']
 hero: 
  path: "/images/cheesy-chipotle-bean-quesadillas-4576e157.jpg"
 ---

@@ -1,10 +1,7 @@
 ---
 title: "Halloumi, Pepper and Sweetcorn Tacos"
 date: "2021-02-07"
-tags: 
-  - "mains"
- 
-  - "hello-fresh"
+tags: ['mains', 'hello fresh']
 hero: 
  path: "/images/halloumi-pepper-and-sweetcorn-tacos-5b24f1ac.jpg"
 ---

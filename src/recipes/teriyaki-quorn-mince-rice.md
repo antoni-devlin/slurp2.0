@@ -1,10 +1,7 @@
 ---
 title: "Teriyaki Quorn Mince & Rice"
 date: "2021-02-07"
-tags: 
-  - "mains"
- 
-  - "hello-fresh"
+tags: ['mains', 'hello fresh']
 hero: 
  path: "/images/teriyaki-beef-mince-1.jpg"
 ---

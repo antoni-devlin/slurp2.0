@@ -1,10 +1,7 @@
 ---
 title: "Spaghetti and Plant-Based Meatballs"
 date: "2021-02-09"
-tags: 
-  - "mains"
- 
-  - "hello-fresh"
+tags: ['mains', 'hello fresh']
 hero: 
  path: "/images/plant-based-meatball-roasted-veg-linguine-793c0710.jpg"
 ---

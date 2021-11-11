@@ -1,8 +1,7 @@
 ---
 title: "Shan-cakes"
 date: "2021-02-10"
-tags: 
-  - "breakfast"
+tags: ['breakfast']
 hero: 
  path: "/images/fluffyamericanpancak_74828_16x9.jpg"
 ---

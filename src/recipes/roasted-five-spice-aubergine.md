@@ -1,10 +1,7 @@
 ---
 title: "Roasted Five Spice Aubergine"
 date: "2021-03-06"
-tags: 
-  - "mains"
- 
-  - "hello-fresh"
+tags: ['mains', 'hello fresh']
 hero: 
  path: "/images/roasted-5-spice-aubergine-c0d96424.jpg"
 ---

@@ -1,10 +1,7 @@
 ---
 title: "Plant-based Harissa Burger"
 date: "2021-03-06"
-tags: 
-  - "mains"
- 
-  - "hello-fresh"
+tags: ['mains', 'hello fresh']
 hero: 
  path: "/images/plant-based-harissa-burger-34daec7c.jpg"
 ---

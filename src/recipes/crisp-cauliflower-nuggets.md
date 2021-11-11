@@ -1,10 +1,7 @@
 ---
 title: "Crisp Cauliflower Nuggets"
 date: "2021-02-07"
-tags: 
-  - "mains"
- 
-  - "hello-fresh"
+tags: ['mains']
 hero: 
  path: "/images/crisp-cauliflower-nuggets-dc7b3a90.jpg"
 ---

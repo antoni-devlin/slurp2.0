@@ -1,8 +1,7 @@
 ---
 title: "Green Thai Style Chicken Curry"
 date: "2020-10-14"
-tags: 
-  - "mains"
+tags: ['mains']
 hero: 
  path: "/images/thai-green-curry.jpg"
 ---
