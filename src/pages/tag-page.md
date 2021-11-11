@@ -6,13 +6,11 @@ pagination:
     alias: tag
 ---
 
+# Recipes tagged with "{{tag | title}}"
+
 {% set taglist = collections[ tag ] %}
-{% for post in taglist | reverse  %}
+{% for post in taglist %}
 
 [{{post.data.title}}]({{post.url}})
 
-
-{% for tag in post.data.tags  %}
- - {{tag}}
-{% endfor  %}
-{%endfor%}
+{% endfor %}
